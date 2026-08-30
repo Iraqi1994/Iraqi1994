@@ -7,12 +7,12 @@ I build modern web applications with a focus on clear user experiences, maintain
 ### Technical Focus
 
 **Frontend**
-HTML, CSS, JavaScript, TypeScript, React, Angular, Tailwind CSS
+React, TypeScript, JavaScript, Angular, HTML, CSS, Tailwind CSS
 
 **Backend**
-C#, .NET, Firebase, Supabase
+C#, .NET, REST APIs, Firebase, Supabase
 
-**Engineering Tools**
+**Tools & Workflow**
 Git, Jira, Confluence
 
 **AI-Assisted Development**
@@ -52,11 +52,11 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 
 ### What I Bring
 
-- Full-stack perspective across interface and application layers
-- Strong foundation in typed, component-based web development
-- Practical experience with cloud-backed application services
-- Effective use of AI development tools to improve implementation, code review, and debugging workflows
-- Collaborative, organized delivery using version control and agile tools
+Practical development experience — Building and maintaining software in a professional development environment.
+Frontend-focused mindset — Enjoy creating clean, responsive and user-friendly interfaces with React, TypeScript and modern web technologies.
+Full-stack understanding — Experience with .NET, APIs and databases helps me understand the bigger picture beyond the frontend.
+Agile collaboration — Used to working in Scrum teams with Jira, Confluence, code reviews and iterative development.
+AI-assisted development — Using modern AI tools to explore solutions, improve code quality and accelerate development while keeping technical decisions and code quality in focus.
 
 ### Connect
 
