@@ -52,11 +52,9 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 
 ### What I Bring
 
-Practical development experience — Building and maintaining software in a professional development environment.
-Frontend-focused mindset — Enjoy creating clean, responsive and user-friendly interfaces with React, TypeScript and modern web technologies.
-Full-stack understanding — Experience with .NET, APIs and databases helps me understand the bigger picture beyond the frontend.
-Agile collaboration — Used to working in Scrum teams with Jira, Confluence, code reviews and iterative development.
-AI-assisted development — Using modern AI tools to explore solutions, improve code quality and accelerate development while keeping technical decisions and code quality in focus.
+Frontend development — React, TypeScript, JavaScript & Angular
+Professional experience — Agile development, .NET & API integration
+AI-assisted development — Using AI tools to build, explore and improve software
 
 ### Connect
 
