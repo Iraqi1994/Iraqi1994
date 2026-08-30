@@ -1,6 +1,6 @@
 # Hussein Iraqi
 
-## Software Developer
+## Software Developer · React · TypeScript · .NET
 
 I build modern web applications with a focus on clear user experiences, maintainable code, and dependable backend services. My toolkit spans frontend development, .NET applications, cloud platforms, and the collaboration practices that help teams deliver consistently.
 
