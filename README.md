@@ -52,8 +52,8 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 
 ### What I Bring
 
-Frontend development — React, TypeScript, JavaScript & Angular
-Professional experience — Agile development, .NET & API integration
+Frontend development — React, TypeScript, JavaScript & Angular <br>
+Professional experience — Agile development, .NET & API integration <br>
 AI-assisted development — Using AI tools to build, explore and improve software
 
 ### Connect
