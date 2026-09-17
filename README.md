@@ -54,7 +54,7 @@ I build web applications end to end — from typed, component-based frontends in
 	<img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
 </div>
 
-I also work with AI-assisted tools (Claude Code, Codex) as part of my day-to-day workflow — for code review, debugging, and speeding up implementation, not as a replacement for understanding the code I ship.
+I also work with AI-assisted tools (Claude Code, Codex) as part of my day-to-day workflow — for code review, debugging, and speeding up implementation.
 
 ### What I Bring
 
