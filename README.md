@@ -49,6 +49,8 @@ I build modern web applications with a focus on clear user experiences, maintain
 	<img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
 </div>
 
+<br>
+
 ### AI-Assisted Development
 
 Claude Code, Codex, prompt-driven development, code review, and debugging
