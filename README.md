@@ -2,12 +2,10 @@
 
 ## Junior Software Developer · React · TypeScript · .NET
 
-<!-- Optional but recommended: add badges once you have the links.
+
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:h.iraqi@web.de"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
--->
 
 I build web applications end to end — from typed, component-based frontends in React to backend services in .NET. I like taking a feature from a rough idea to something reliable in production, and I care about code that the next person (often future-me) can actually understand.
 
@@ -65,4 +63,4 @@ I also work with AI-assisted tools (Claude Code, Codex) as part of my day-to-day
 
 <br>
 
-I'm open to opportunities where I can keep growing as a developer, take on more ownership, and learn from experienced teams. Feel free to reach out — links above (once added) or via the contact info on my profile.
+I'm open to opportunities where I can keep growing as a developer, take on more ownership, and learn from experienced teams. Feel free to reach out.
