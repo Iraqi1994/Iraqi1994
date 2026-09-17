@@ -21,14 +21,6 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 ### Skills
 
 <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-	<img width="12" />
-	<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-	<img width="12" />
-	<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase" />
-	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 	<img width="12" />
 	<img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
@@ -38,7 +30,7 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 
 ### What I Bring
 
-Frontend development — React, TypeScript, JavaScript & Angular <br>
+<br>
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 	<img width="12" />
@@ -55,7 +47,7 @@ Frontend development — React, TypeScript, JavaScript & Angular <br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 	<img width="12" />
 </div>	
-Professional experience — Agile development, .NET & API integration <br>
+<br>
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 	<img width="12" />
