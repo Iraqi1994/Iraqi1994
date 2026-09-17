@@ -49,4 +49,18 @@ I build modern web applications with a focus on clear user experiences, maintain
 	<img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
 </div>
 
+### AI-Assisted Development
+
+Claude Code, Codex, prompt-driven development, code review, and debugging
+
+### What I Bring
+
+- Full-stack perspective across interface and application layers
+- Strong foundation in typed, component-based web development
+- Practical experience with cloud-backed application services
+- Effective use of AI development tools to improve implementation, code review, and debugging workflows
+- Collaborative, organized delivery using version control and agile tools
+
+<br>
+
 I am open to opportunities where I can contribute to thoughtful products, learn from experienced teams, and grow as a software developer.
