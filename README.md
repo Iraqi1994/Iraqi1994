@@ -4,20 +4,6 @@
 
 I build modern web applications with a focus on clear user experiences, maintainable code, and dependable backend services. My toolkit spans frontend development, .NET applications, cloud platforms, and the collaboration practices that help teams deliver consistently.
 
-### Technical Focus
-
-**Frontend**
-React, TypeScript, JavaScript, Angular, HTML, CSS, Tailwind CSS
-
-**Backend**
-C#, .NET, REST APIs, Firebase, Supabase
-
-**Tools & Workflow**
-Git, Jira, Confluence
-
-**AI-Assisted Development**
-Claude Code, Codex, prompt-driven development, code review, and debugging
-
 ### Skills
 
 **Frontend development**
