@@ -36,7 +36,7 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 	<img width="12" />
-</div> <br>
+</div> 
 **Backend development**
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -47,7 +47,7 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 	<img width="12" />
 	<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase" />
 	<img width="12" />
-</div> <br>
+</div> 
 **Development & Collaboration**
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
