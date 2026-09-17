@@ -20,7 +20,7 @@ Claude Code, Codex, prompt-driven development, code review, and debugging
 
 ### Skills
 
-Frontend development<br>
+**Frontend development**
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 	<img width="12" />
@@ -37,7 +37,7 @@ Frontend development<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 	<img width="12" />
 </div> <br>
-Backend development<br>
+**Backend development**
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 	<img width="12" />
@@ -48,7 +48,7 @@ Backend development<br>
 	<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase" />
 	<img width="12" />
 </div> <br>
-Development & Collaboration<br>
+**Development & Collaboration**
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 	<img width="12" />
@@ -56,9 +56,5 @@ Development & Collaboration<br>
 	<img width="12" />
 	<img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
 </div>
-
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Iraqi1994-181717?style=flat&logo=github)](https://github.com/Iraqi1994)
 
 I am open to opportunities where I can contribute to thoughtful products, learn from experienced teams, and grow as a software developer.
