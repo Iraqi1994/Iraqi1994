@@ -52,6 +52,8 @@ My goal is to build web applications end to end from typed, component-based fron
 	<img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="Confluence" />
 </div>
 
+<br>
+
 I also work with AI-assisted tools (Claude Code, Codex) as part of my day-to-day workflow — for code review, debugging, and speeding up implementation.
 
 ### What I Bring
