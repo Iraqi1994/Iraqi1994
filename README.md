@@ -7,7 +7,7 @@
   <a href="mailto:h.iraqi@web.de"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I build web applications end to end — from typed, component-based frontends in React to backend services in .NET. I like taking a feature from a rough idea to something reliable in production, and I care about code that the next person (often future-me) can actually understand.
+My goal is to build web applications end to end from typed, component-based frontends in React to backend services in .NET. I like taking a feature from a rough idea to something reliable in production, and I care about code that the next person (often future-me) can actually understand.
 
 ### Skills
 
