@@ -1,6 +1,6 @@
 # Hussein Iraqi
 
-## Junior Software Developer · React · TypeScript · .NET
+## Junior Software Developer · Angular · React · .NET
 
 
 <p>
